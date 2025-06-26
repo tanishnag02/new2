@@ -1,2 +1,2 @@
-hello today we did giitgnore
+hello today we did gitignore
 
